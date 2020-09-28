@@ -1,2 +1,2 @@
-##백준 ID : kkigom
-##Codeforces ID : kkigom
+## 백준 ID : kkigom
+## Codeforces ID : kkigom
